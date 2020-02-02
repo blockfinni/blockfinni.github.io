@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "AJourneyworththetravel"
-date:       2020-02-02 22:28:58 +0000
+date:       2020-02-02 17:28:59 -0500
 permalink:  ajourneyworththetravel
 ---
 
