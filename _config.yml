@@ -1,11 +1,11 @@
 # Site settings
-author: Benjamin A Ajisefinni Jr
-title: 
+author: AJ
+title: Adding Gears
 header-img: img/home-bg.png
 email: aj.no.limit.1@gmail.com
-copyright_name: Benjamin A Ajisefinni Jr
+copyright_name: AJ
 description: > # this means to ignore newlines until "baseurl:"
-  
+  AG
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  blockfinni
